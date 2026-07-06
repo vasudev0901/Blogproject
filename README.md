@@ -136,7 +136,7 @@ This project helps students understand:
 
 **Your Name**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/vasudev0901/Blogproject
 
 ---
 
