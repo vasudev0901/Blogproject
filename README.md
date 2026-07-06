@@ -88,14 +88,14 @@ npx json-server --watch db.json --port 3000
 ## 📷 Project Screenshots
 
 ### Home Page
-[Home screenshot](home1.png)
+[Home screenshot](home.png)
 
 ### Blog Section
 
-[Home screenshot](blog.png)
+[Home screenshot](blog&category.png)
 ### Footer
 
-[Home screenshot](footer1.png)
+[Home screenshot](footer.png)
 
 
 ## 📚 Learning Outcomes
