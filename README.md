@@ -92,10 +92,10 @@ npx json-server --watch db.json --port 3000
 
 ### Blog Section
 
-[Home screenshot](blog&category.png)
+[Blog Category screenshot](blog&category.png)
 ### Footer
 
-[Home screenshot](footer.png)
+[Footer screenshot](footer.png)
 
 
 ## 📚 Learning Outcomes
